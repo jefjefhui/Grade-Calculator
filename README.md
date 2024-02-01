@@ -25,3 +25,6 @@ The program will display a table, which clearly shows the category, points earne
 Finally, the program will calculate your final grade of the course and print out the value.
 
 
+![GradeCalculatorScreenShot](https://github.com/jefjefhui/Grade-Calculator/assets/73283123/76018eb9-591d-4490-b3a5-7adf7bb7fa68)
+
+In the image above, you can see how the Grade Calculator looks like. As a user, you need to enter the scores accordingly. After entering all the scores, you can press enter, the result table will display to you immediately.
